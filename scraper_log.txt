@@ -1,0 +1,3 @@
+2024-12-10 21:13:07,793 - ERROR: Google Business Scraping Error: not a valid non-string sequence or mapping object
+2024-12-10 21:13:17,264 - ERROR: Google Business Scraping Error: not a valid non-string sequence or mapping object
+2024-12-10 21:16:11,599 - INFO: Data exported to business_data.csv
